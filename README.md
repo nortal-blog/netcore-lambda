@@ -1,6 +1,6 @@
 # netcore-lambda
 
-Short introduction to AWS Lambda using .NET Core.
+Short introduction to AWS Lambda tooling with .NET Core.
 
 ## What is lambda
 
